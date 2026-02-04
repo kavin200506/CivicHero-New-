@@ -3,6 +3,8 @@
 
 # Service Account Key (sensitive)
 serviceAccountKey.json
+service-account-key.json
+service-account-key-*.json
 
 # Node modules
 node_modules/
