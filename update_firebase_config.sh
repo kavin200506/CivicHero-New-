@@ -30,3 +30,4 @@ echo "   3. Get Web app config and update Admin/Admin/lib/main.dart"
 echo "   4. Run: flutter clean && flutter pub get"
 
 
+

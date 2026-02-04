@@ -103,3 +103,4 @@ Without the index, Firestore can't efficiently execute this query.
 **Note**: If you see this error again for different fields, you'll need to create additional indexes. Firestore will always provide a direct link in the error message.
 
 
+

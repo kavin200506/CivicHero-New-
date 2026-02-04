@@ -1,5 +1,16 @@
-# Firebase Service Account Key (DO NOT COMMIT!)
-service-account-key.json
-*.json
-!package.json
-!package-lock.json
+# Environment variables
+.env
+
+# Service Account Key (sensitive)
+serviceAccountKey.json
+
+# Node modules
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
