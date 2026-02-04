@@ -1,0 +1,14 @@
+{
+  "name": "civichero-firebase-clear",
+  "version": "1.0.0",
+  "description": "Script to clear all Firebase data",
+  "main": "clear-firebase-data.js",
+  "scripts": {
+    "clear": "node clear-firebase-data.js"
+  },
+  "dependencies": {
+    "firebase-admin": "^12.7.0"
+  }
+}
+
+
