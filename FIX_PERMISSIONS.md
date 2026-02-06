@@ -103,3 +103,4 @@ If you can't change the rules immediately, you could:
 
 **Next Step:** Update Firestore security rules to allow service account access.
 
+

@@ -33,3 +33,4 @@ If the document IDs don't match:
 2. Check server logs: `tail -f server.log`
 3. You should see: `✅ Document exists: true`
 
+

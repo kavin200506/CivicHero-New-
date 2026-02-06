@@ -86,3 +86,4 @@ To test if notifications work with a valid user:
 
 **Next Step:** Create the user profile in Firestore with the userId from the complaint.
 
+
